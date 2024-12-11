@@ -1,4 +1,4 @@
-# Expatswap Fullstack Task
+# User Management Record
 
 <img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1710941085/file-uploads/a4qogthay8qlyqy0eqeo.png" title="Image" alt="image">
 
